@@ -2,4 +2,4 @@
 QUESTION
 
 
-When JavaScript variables are declared,
+When JavaScript variables are declared, they have an initial value of undefined.
