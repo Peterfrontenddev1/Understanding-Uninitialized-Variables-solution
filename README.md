@@ -14,6 +14,7 @@ Initialize the three variables a, b, and c with 5, 10, and "I am a" respectively
                                                                     ** ANSWER**
 
 // Only change code below this line
+
 var a = 5;
 var b = 10;
 var c = "I am a";
