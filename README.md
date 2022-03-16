@@ -18,4 +18,5 @@ Initialize the three variables a, b, and c with 5, 10, and "I am a" respectively
 var a = 5;
 var b = 10;
 var c = "I am a";
+
 // Only change code above this line
